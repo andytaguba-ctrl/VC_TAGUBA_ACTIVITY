@@ -3,3 +3,4 @@ Hotdog
 Icecream
 Lumpia
 KwekKwek
+Rice
